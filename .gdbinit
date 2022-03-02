@@ -2312,3 +2312,8 @@ python Dashboard.start()
 # Local Variables:
 # mode: python
 # End:
+
+dashboard -enabled off
+define dash
+dashboard
+end
